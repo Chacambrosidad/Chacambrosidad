@@ -12,14 +12,14 @@ Hola, soy Carlos. Convierto la forma en que trabaja un negocio en un sistema que
 
 </div>
 
-## Lo que construyo
+## Lo que sé hacer
 
-| Proyecto | Qué resuelve | Stack |
-|---|---|---|
-| [**odoo-self-storage**](https://github.com/Chacambrosidad/odoo-self-storage) | Renta de bodegas: bloqueo de doble renta, promociones, prorrateo, plano interactivo y conciliación mensual | Python, OWL, QWeb, SQL |
-| [**odoo-crm-whatsapp-bot**](https://github.com/Chacambrosidad/odoo-crm-whatsapp-bot) | Bot de WhatsApp (Meta y YCloud) que califica prospectos y deja lead, actividad y cotización en el CRM | Python, webhooks, HMAC |
-| [**odoo-mrp-workorder-operator**](https://github.com/Chacambrosidad/odoo-mrp-workorder-operator) | Operador asignado por orden de trabajo, con candado en la tablet de planta | Python, Shop Floor |
-| [**odoo-pos-truck-stock**](https://github.com/Chacambrosidad/odoo-pos-truck-stock) | Venta en ruta sobre el POS: stock del camión, devoluciones por tipo de crédito y cierre con una sola transferencia | Python, OWL, QWeb |
+- **Gestionar proyectos de ERP** de principio a fin: levantamiento, estimación, propuesta, entrega y capacitación.
+- **Desarrollar a la medida** módulos, integraciones y reportes, con pruebas y despliegue en producción.
+- **Cuidar los datos:** optimizar, depurar y auditar bases de datos grandes antes de migrar.
+- **Integrar sistemas** con APIs, webhooks y mensajería, entre ellos WhatsApp.
+- **Automatizar con IA:** agentes que apoyan el diagnóstico, las pruebas y la documentación.
+- **Operar el negocio en planta, ruta y bodega:** manufactura, punto de venta, inventario, rentas y facturación electrónica.
 
 ## Con qué trabajo
 
