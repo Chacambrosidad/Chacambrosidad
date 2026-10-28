@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="Flujo de trabajo: levantamiento, módulo, pruebas, despliegue y capacitación">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="900" height="150" rx="14" fill="#0d1117"/>
+<rect x="20" y="38" width="140" height="74" rx="10" fill="#111827" stroke="url(#g)" stroke-width="1.6"/>
+<text x="90" y="68" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="bold" fill="#e6edf3">Levantamiento</text>
+<text x="90" y="90" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#9ca3af">entender el negocio</text>
+<circle cx="90" cy="38" r="9" fill="#0d1117" stroke="url(#g)" stroke-width="1.6"/><text x="90" y="42" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#2dd4bf">1</text>
+<line x1="160" y1="75" x2="196" y2="75" stroke="#2dd4bf" stroke-width="1.8" stroke-dasharray="5 4"><animate attributeName="stroke-dashoffset" from="18" to="0" dur="1.2s" repeatCount="indefinite"/></line>
+<path d="M189 70 L196 75 L189 80" fill="none" stroke="#a78bfa" stroke-width="1.8"/>
+<rect x="196" y="38" width="140" height="74" rx="10" fill="#111827" stroke="url(#g)" stroke-width="1.6"/>
+<text x="266" y="68" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="bold" fill="#e6edf3">Módulo</text>
+<text x="266" y="90" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#9ca3af">Python · OWL · XML</text>
+<circle cx="266" cy="38" r="9" fill="#0d1117" stroke="url(#g)" stroke-width="1.6"/><text x="266" y="42" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#2dd4bf">2</text>
+<line x1="336" y1="75" x2="372" y2="75" stroke="#2dd4bf" stroke-width="1.8" stroke-dasharray="5 4"><animate attributeName="stroke-dashoffset" from="18" to="0" dur="1.2s" repeatCount="indefinite"/></line>
+<path d="M365 70 L372 75 L365 80" fill="none" stroke="#a78bfa" stroke-width="1.8"/>
+<rect x="372" y="38" width="140" height="74" rx="10" fill="#111827" stroke="url(#g)" stroke-width="1.6"/>
+<text x="442" y="68" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="bold" fill="#e6edf3">Pruebas</text>
+<text x="442" y="90" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#9ca3af">unittest · HttpCase</text>
+<circle cx="442" cy="38" r="9" fill="#0d1117" stroke="url(#g)" stroke-width="1.6"/><text x="442" y="42" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#2dd4bf">3</text>
+<line x1="512" y1="75" x2="548" y2="75" stroke="#2dd4bf" stroke-width="1.8" stroke-dasharray="5 4"><animate attributeName="stroke-dashoffset" from="18" to="0" dur="1.2s" repeatCount="indefinite"/></line>
+<path d="M541 70 L548 75 L541 80" fill="none" stroke="#a78bfa" stroke-width="1.8"/>
+<rect x="548" y="38" width="140" height="74" rx="10" fill="#111827" stroke="url(#g)" stroke-width="1.6"/>
+<text x="618" y="68" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="bold" fill="#e6edf3">Despliegue</text>
+<text x="618" y="90" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#9ca3af">Odoo.sh · AWS · SSH</text>
+<circle cx="618" cy="38" r="9" fill="#0d1117" stroke="url(#g)" stroke-width="1.6"/><text x="618" y="42" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#2dd4bf">4</text>
+<line x1="688" y1="75" x2="724" y2="75" stroke="#2dd4bf" stroke-width="1.8" stroke-dasharray="5 4"><animate attributeName="stroke-dashoffset" from="18" to="0" dur="1.2s" repeatCount="indefinite"/></line>
+<path d="M717 70 L724 75 L717 80" fill="none" stroke="#a78bfa" stroke-width="1.8"/>
+<rect x="724" y="38" width="140" height="74" rx="10" fill="#111827" stroke="url(#g)" stroke-width="1.6"/>
+<text x="794" y="68" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="bold" fill="#e6edf3">Capacitación</text>
+<text x="794" y="90" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#9ca3af">usuarios en planta</text>
+<circle cx="794" cy="38" r="9" fill="#0d1117" stroke="url(#g)" stroke-width="1.6"/><text x="794" y="42" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="10" fill="#2dd4bf">5</text>
+</svg>
